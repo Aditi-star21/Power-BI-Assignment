@@ -28,5 +28,5 @@ Dataset used:
 <a href= https://github.com/Aditi-star21/Power-BI-Assignment/blob/main/EV.xlsm>Dataset</a>
 
 dashboard:
-<a href= https://github.com/Aditi-star21/Power-BI-Assignment/blob/main/Electric%20car.pdf>ElectricCar Dashboard</a>
+<a href= https://github.com/Aditi-star21/Power-BI-Assignment/blob/main/ElectricCar.pdf>ElectricCar Dashboard</a>
 
